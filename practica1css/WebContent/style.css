@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+a:hover {
+	background-color: yellow;
+	color: red;
+}
+
+.p::first-letter {
+  font-weight: bold;
+  color: red;
+}
+
+.SteveJobs {
+	text-align: center;
+	color: blue;
+	
+}
+
+.SteveJobs::first-letter {
+	font-size: 90px;
+	color: black;
+}
+
+.vida {
+	text-align: center; 
+	color: blue;
+	
+}
+
+p::first-line {
+	color: red;
+}
+
